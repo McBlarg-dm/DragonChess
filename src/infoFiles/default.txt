@@ -1,0 +1,15 @@
+You control the capital characters
+and the computer controls the lower.
+
+Moves take the form of "pcr to pcr"
+where p is the plane, c is the column
+letter, and r is the row number.
+
+Planes:(S)ky, (G)round, (C)ave
+Columns: a-l
+Rows: 1-8
+
+Useful Commands:
+/p - Show rules for piece
+/winning - Shows who the board favors
+/back
